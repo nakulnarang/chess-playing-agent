@@ -1,0 +1,7 @@
+gym-chess
+python-chess
+torch
+stable-baselines3[extra]
+numpy
+tqdm
+zstandard
