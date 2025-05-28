@@ -43,3 +43,6 @@ models/ppo/*.zip
 
 # Mypy cache
 .mypy_cache/
+
+# Icon
+Icon?
