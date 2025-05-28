@@ -45,4 +45,6 @@ models/ppo/*.zip
 .mypy_cache/
 
 # Icon
-Icon?
+.DS_Store
+Icon\r
+Icon? 
